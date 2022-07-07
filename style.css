@@ -1,0 +1,60 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lawngreen;
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  img{
+  
+    border: 10px solid black;
+    margin-left: 600px;
+    height: 380px;
+    width: 20%;
+    margin-top: 20px;
+  }
+  video{
+    margin-left: 600px;
+    height: 380px;
+    width: 20%;
+    margin-top: 20px;
+  }
+  iframe{
+    margin-left: 600px;
+    height: 380px;
+    width: 20%;
+    margin-top: 20px;
+  }
+ .abcd
+ {
+    background-color: lightsalmon;
+ }
+ h1{
+    margin-left: 600px;
+ }
+ h4
+ {
+    margin-left: 600px;
+ }
+form{
+    margin-left: 600px;
+}
+h2
+{
+    margin-left: 600px;
+}
+.efgh
+{
+    background-color: lightsalmon;
+}
+.gg
+{
+    margin-top: 30px;
+    margin-left: 250px;
+}
